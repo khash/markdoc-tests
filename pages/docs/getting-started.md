@@ -5,4 +5,4 @@ description: How to get started with Markdoc
 
 # Get started with Markdoc
 
-{% transit text="hello" /%}
+{% transit text="from markdoc" /%}
